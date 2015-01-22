@@ -1,7 +1,7 @@
 {
   "name": "siddiq-jshint",
   "main": "./lib/siddiq-jshint",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "JSHint plugin for Atom IDE",
   "repository": "https://github.com/siddiq/siddiq-jshint",
   "license": "MIT",
