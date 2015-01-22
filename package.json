@@ -1,7 +1,7 @@
 {
   "name": "siddiq-jshint",
   "main": "./lib/siddiq-jshint",
-  "version": "0.2.0",
+  "version": "1.0.0",
   "description": "A short description of your package",
   "repository": "https://github.com/siddiq/siddiq-jshint",
   "license": "MIT",
