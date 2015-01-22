@@ -1,0 +1,15 @@
+{
+  "name": "siddiq-jshint",
+  "main": "./lib/siddiq-jshint",
+  "version": "0.0.1",
+  "description": "A short description of your package",
+  "repository": "https://github.com/siddiq/siddiq-jshint",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "dependencies": {
+      "jshint": "*",
+      "atom-message-panel": "*"
+  }
+}
